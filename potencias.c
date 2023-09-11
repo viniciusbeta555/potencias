@@ -1,3 +1,5 @@
+/*Aluno: Francisco Vinicius de Freitas Carneiro*/
+
 #include <stdio.h>
 #include <math.h>
 
